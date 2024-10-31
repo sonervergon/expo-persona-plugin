@@ -7,7 +7,7 @@ export default defineConfig({
     lib: {
       entry: resolve(__dirname, "src/plugin.ts"),
       name: "withPersonaMavenRepo",
-      fileName: (format) => `index.${format}.js`,
+      fileName: (format) => `index.${format === "es" ? "mjs" : "cjs"}`,
       formats: ["es", "cjs"],
     },
     rollupOptions: {
