@@ -1,6 +1,6 @@
 # Expo Persona Plugin
 
-**Expo Persona Plugin** is an **unofficial** plugin for Expo projects, designed to seamlessly add the Persona Maven repository to the Android build.gradle file. This makes integrating [Persona's SDK](https://docs.withpersona.com/docs/react-native-sdk-integration) with React Native a straightforward process.
+**Expo Persona Plugin** is an **unofficial** plugin for Expo projects, designed to seamlessly add the Persona Maven repository to the Android build.gradle file. This makes integrating [Persona's SDK](https://docs.withpersona.com/docs/react-native-sdk-integration) with React Native in Expo projects a straightforward process.
 
 ## Installation
 
